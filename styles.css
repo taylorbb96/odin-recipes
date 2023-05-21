@@ -1,0 +1,17 @@
+* {
+    background-color: rgb(198, 198, 253);
+}
+
+li {
+    margin-bottom: 1rem;
+}
+
+.content {
+    text-align: center;
+    margin: auto;
+}
+
+.home-icon {
+    height: auto;
+    width: 200px;
+}
