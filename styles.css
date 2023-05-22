@@ -9,7 +9,12 @@ li {
 
 .content {
     text-align: center;
-    margin: auto;
+}
+
+.content > ul, ol {
+    text-align: left;
+    display: inline-block;
+    max-width: 480px;
 }
 
 .home-icon {
