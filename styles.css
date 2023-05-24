@@ -17,6 +17,10 @@ li {
     max-width: 480px;
 }
 
+img {
+    width: 480px;
+}
+
 .home-icon {
     height: auto;
     width: 200px;
